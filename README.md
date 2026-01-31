@@ -13,3 +13,5 @@ As bibliotecas utilizadas estão disponíveis em requirements.txt e instaladas f
 
 *Atenção!
 O histórico de commits apresenta datas confusas. Isso decorre do fato de que após uma análise minunciosa no fim do projeto, foram constatados alguns commits em que os gráficos do matplotlib não foram "limpados" do notebook, podendo deixar expostas informações. Dessa forma, foram feitos rebases a fim de remover esses commits do histórico
+
+Enzo Oliveira Batista - 12411ECP009
